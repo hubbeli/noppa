@@ -1,3 +1,6 @@
-#container div {
+div#container {
     background-color: black;
+    display: grid;
+    place-items: center;
+    height: 100vh;
 }

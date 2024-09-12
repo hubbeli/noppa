@@ -1,6 +1,6 @@
 
 const dice = document.getElementById('dice');
-const diceImage = document.getElementById('image');
+const image = document.getElementById('image');
 
 function roll() {
     const randomNumber = Math.floor(Math.random() * 6) + 1;
